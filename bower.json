@@ -1,0 +1,28 @@
+{
+  "name": "kickstarter",
+  "description": "Kickstarter for webdevelopment",
+  "main": "index.html",
+  "authors": [
+    "Johnny Ceelen"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "Kickstarter"
+  ],
+  "moduleType": [
+    "es6"
+  ],
+  "homepage": "https://github.com/zekerstijl/kickstarter",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.1",
+    "bootstrap": "~3.3.1",
+    "font-awesome": "~4.2.0"
+  }
+}
